@@ -68,9 +68,13 @@ footer p {
   text-align: center;
 }
 
-.jumbotron {
+.container h1 {
+  color: #0d69c4;
+}
+
+.mainImage {
   height: 800px;
-  background-image: url("http://s3.amazonaws.com/codecademy-content/projects/broadway/bg.jpg");
+  background-image: url("../Brisbane_website/city.jpeg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
